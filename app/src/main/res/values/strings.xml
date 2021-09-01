@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Photos</string>
+    <string name="text_message_error">Results could not be loaded</string>
+    <string name="text_message_empty_state">No results found for this query</string>
+    <string name="text_retry">Retry</string>
+    <plurals name="likes">
+        <item quantity="one">%1$s like</item>
+        <item quantity="other">%1$s likes</item>
+    </plurals>
+</resources>
