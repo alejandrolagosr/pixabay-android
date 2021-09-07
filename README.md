@@ -25,3 +25,9 @@ The project will start growing keeping in mind this, for now we don't have many 
 - Glide: Image loading and caching
 - Retrofit: HTTP Client
 - Retrofit Gson Converter: GSON converter for JSON responses
+
+## Screenshots
+
+| Placeholders      | Home |
+| ----------- | ----------- |
+| ![Screenshot_1631056945](https://user-images.githubusercontent.com/7938140/132422699-31eabb45-e552-46d7-8fc7-bed27fd9288b.png) | ![Screenshot_1631056939](https://user-images.githubusercontent.com/7938140/132422710-0831dcc4-bcb8-4d69-b2c0-ad2c6784568c.png) |
